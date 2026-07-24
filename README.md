@@ -23,6 +23,11 @@ Artificial Intelligence undergraduate at **Beijing Normal University–Hong Kong
 - **[Credit Risk Ensemble Learning From Scratch](https://github.com/taoyun0303-star/credit-risk-ensemble-learning)**  
   An educational tabular machine-learning project with transparent from-scratch ensemble components and reproducible preprocessing.
 
+## Open-source activity
+
+- **[TDesign Miniprogram · PR #4580](https://github.com/Tencent/tdesign-miniprogram/pull/4580)**
+  Improved the `Fab` auto-collapse demo for [Issue #2709](https://github.com/Tencent/tdesign-miniprogram/issues/2709), including behavior tests and documentation. Currently awaiting community review.
+
 ## Current direction
 
 I am developing stronger research practice around interpretable machine learning: defining claims carefully, comparing direct and concept-mediated pipelines fairly, and making experimental evidence reviewable.
