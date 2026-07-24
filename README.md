@@ -4,12 +4,15 @@ Artificial Intelligence undergraduate at **Beijing Normal University–Hong Kong
 
 ## Technical focus
 
-`Python` · `Java` · `Machine Learning` · `Interpretable AI` · `Software Engineering` · `Full-stack Development`
+`Python` · `Java` · `JavaScript` · `Machine Learning` · `Interpretable AI` · `Software Engineering` · `Full-stack Development`
 
 ## Selected work
 
 - **[Auditing an Interpretable Weather–Symptom–Disease Cascade](https://github.com/taoyun0303-star/weather-symptom-disease-cascade)**  
   A leakage-resistant audit of a concept-bottleneck pipeline, with grouped evaluation, robustness checks, a controlled validation study, and explicit non-clinical research boundaries.
+
+- **[BNBU BookCycle](https://github.com/taoyun0303-star/bnbu-second-hand-book-platform)**  
+  A WeChat Mini Program for course-aware campus textbook exchange, with two-sided matching, local handoff workflows, and a runnable no-backend demonstration mode.
 
 - **[CineFlow](https://github.com/taoyun0303-star/CineFlow)**  
   A transaction-aware Java desktop cinema ticketing system with JDBC, authorization, row locking, auditability, and a polished Swing interface.
